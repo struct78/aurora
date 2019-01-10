@@ -1,6 +1,6 @@
 # Aurora
 
-Aurora is an EQ visualizer created with Touchdesigner.
+Aurora is an audio reactive visualisation created with Touchdesigner.
 
 ## Dependencies
 - [Soundflower 2.0b2](https://github.com/mattingalls/Soundflower)
