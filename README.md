@@ -11,7 +11,9 @@ mids, highs, and lows. These are then sent to a ring component, which adds noise
 feedback/blur applied to it, creating the aurora effect.
 
 ## Video
-Coming soon
+[![Aurora](https://i.imgur.com/3LoEW4B.png)](https://youtu.be/iAAquk2pAZ8)
 
 ## Images
-Coming soon
+![Aurora](https://i.imgur.com/fi37R5D.png)
+![Aurora](https://i.imgur.com/DK98aNo.png)
+![Aurora](https://i.imgur.com/Ws71qEL.png)
